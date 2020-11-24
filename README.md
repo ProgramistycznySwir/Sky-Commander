@@ -12,3 +12,5 @@ Plan:
 -I will finish it in feasible time :/
 
 I have some files, but i'm not familiar with Git so i'll upload it later, i promise, the shit got 400 lines :)
+
+###### it died... but it's funny how high my hopes were :)
